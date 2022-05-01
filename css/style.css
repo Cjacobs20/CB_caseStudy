@@ -1,0 +1,67 @@
+#navbar-example2 {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+p {
+    font-family: 'prata', serif;
+    font-size: 32px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 80px;
+}
+h1 {
+    font-family: 'prata', serif;
+    font-size: 42px;
+    padding-left: 80px;
+}
+body {
+    background-color: #ffffff;
+}
+.researchCards {
+    justify-content: center;
+}
+.carousel-inner {
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.navbar a {
+    color: #ffffff;
+}
+
+.navbar a:hover {
+    color: #8FD9A8;
+}
+.heroBanner {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.heroBanner img {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding: 20px;
+    padding-top: 80px;
+}
+.heroText p {
+    justify-content: center;
+    padding-left: 20px;
+    align-items: center;
+}
+h5 {
+    color: black;
+}
+#collapseWidthExample {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+.accordian {
+    padding: 80px;
+}
+.accordian-item {
+    justify-content: center;
+    align-items: center;
+}
