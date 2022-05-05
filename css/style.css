@@ -3,11 +3,23 @@
     z-index: 1;
     width: 100%;
 }
+ol {
+    padding-left: 20px;
+}
+li {
+    font-family: 'prata', serif;
+    font-size: 28px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+em {
+    padding: 10%;
+}
 p {
     font-family: 'prata', serif;
     font-size: 32px;
-    padding-left: 200px;
-    padding-right: 200px;
+    padding-left: 20%;
+    padding-right: 20%;
     padding-bottom: 80px;
 }
 h1 {
