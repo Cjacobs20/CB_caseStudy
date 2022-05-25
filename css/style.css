@@ -2,11 +2,10 @@
     position: fixed;
     z-index: 1;
     width: 100%;
+    flex-direction: row;
 }
-ol {
-    padding-left: 20px;
-}
-li {
+ 
+ol li {
     font-family: 'prata', serif;
     font-size: 28px;
     padding-left: 20%;
